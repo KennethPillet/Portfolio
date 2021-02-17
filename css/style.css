@@ -17,3 +17,10 @@ header,footer{
 span{
     font-weight: bold ;
 }
+#arrowUp{
+    max-width: 20px;
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    opacity: 50%;
+}
