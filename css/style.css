@@ -24,3 +24,7 @@ span{
     right: 40px;
     opacity: 50%;
 }
+#arrowBack{
+    max-width: 20px;
+    opacity: 50%;
+}
