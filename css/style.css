@@ -6,6 +6,7 @@
     background-color: whitesmoke;
     margin: 0;
     padding: 0;
+    cursor: url("../img/logo/Small-dark-grey-circle.png"), pointer;
 }
 main{
     background-color: #FFFCF2;
@@ -13,6 +14,12 @@ main{
 header,footer{
     border: 1px solid #707070;
     padding: 1%;
+}
+header a{
+    margin: 0 2% 0 2%;
+}
+header a:hover{
+    text-transform: uppercase;
 }
 span{
     font-weight: bold ;
@@ -23,6 +30,9 @@ span{
     bottom: 30px;
     right: 40px;
     opacity: 50%;
+}
+#arrowUp:hover{
+    cursor: pointer;
 }
 #arrowBack{
     max-width: 20px;
