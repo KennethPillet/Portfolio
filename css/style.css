@@ -6,7 +6,7 @@
     background-color: whitesmoke;
     margin: 0;
     padding: 0;
-    cursor: url("../img/logo/Small-dark-grey-circle.png"), pointer;
+    cursor: url("../img/logo/oxy-chrome/left_ptr.cur"), pointer;
 }
 main{
     background-color: #FFFCF2;
@@ -32,7 +32,7 @@ span{
     opacity: 50%;
 }
 #arrowUp:hover, #arrowBack:hover{
-    cursor: pointer;
+    cursor: url("../img/logo/oxy-chrome/pointing_hand.cur"), pointer;
 }
 #arrowBack{
     max-width: 20px;
